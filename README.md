@@ -12,3 +12,4 @@ The program is done using MATLAB with a handy GUI, and for each given face it gi
 Examples   
 ---------------------
 ![example1](Face-Recognition-GUI-Windows/GUIAbdalRahman.png)
+![example2](Face-Recognition-GUI-Windows/GUIHassan1.png)
